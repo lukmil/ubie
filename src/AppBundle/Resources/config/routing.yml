@@ -1,0 +1,7 @@
+signup:
+  path: /signup
+  defaults: { _controller: AppBundle:Default:signup }
+
+logout:
+  path: /logout
+  defaults: { _controller: AppBundle:Default:logout }
